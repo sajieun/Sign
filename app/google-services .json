@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571125505651",
+    "project_id": "nulli-project",
+    "storage_bucket": "nulli-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571125505651:android:11946419e4b5bcef9e1406",
+        "android_client_info": {
+          "package_name": "com.cookandroid.bottomnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571125505651-vnj6d9b3sbplvfdqhghj3eb6qcdk7a3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGjBjX__ZEhoQKjotYR6O8hCw7I9kddwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571125505651-vnj6d9b3sbplvfdqhghj3eb6qcdk7a3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
